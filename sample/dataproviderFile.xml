@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="login suite">
+<test name="bothworng">
+<class name="datadriven.dataproviderFile"/>
+<test name="worng">
+<class name="datadriven.dataproviderFile"/>
+<test name="worng">
+<class name="datadriven.dataproviderFile"/>
+<test name="correct">
+<class name="datadriven.dataproviderFile"/>
+
+
+
+</test>
+</test>
+</test>
+</test>
+</suite>
